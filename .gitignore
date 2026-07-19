@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# ANSYS temporary/generated files
+*.lock
+*.lck
+*.tmp
+*.bak
+*.log
+*.err
+*.out
+*.rst
+*.rth
+*.full
+*.emat
+*.esav
+*.db
+*.dbb
+*.page
+*.mntr
+*.stat
+*.pcs
+*.osav
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.docx
