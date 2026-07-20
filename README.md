@@ -227,6 +227,7 @@ The complete technical report contains:
 - Model evaluation
 - Discussion
 - Conclusion
+- Future Works
 
 📄 **Report Location**
 
