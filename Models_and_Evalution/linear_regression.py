@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error, r2_score
 
 
+# Add your own path
 data = pd.read_csv("Dataset for training_CAE.csv")
 
 #print(data.columns)
